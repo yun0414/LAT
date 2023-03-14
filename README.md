@@ -19,5 +19,5 @@
 > ### Week2
 >> #### [作業0-讀取多個資料並取得相關內容](https://github.com/yun0414/LAT/blob/main/FirstTest_week2.ipynb)
 > ### Week3
->> #### [作業1](https://github.com/yun0414/LAT/blob/main/Week3/Hw1.ipynb)
+>> #### [作業1-選擇一份資料並詢問十個問題](https://github.com/yun0414/LAT/blob/main/Week3/Hw1.ipynb)
 >> 
