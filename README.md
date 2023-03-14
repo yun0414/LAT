@@ -12,7 +12,7 @@
 
 ## 上課筆記
 > ### [Week1](https://github.com/yun0414/LAT/blob/main/Week1/Week1%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
-> ### Week2
+> ### [Week2](https://github.com/yun0414/LAT/blob/main/Week2/Week2%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
 > ### Week3
 
 ## 作業連結
