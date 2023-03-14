@@ -11,6 +11,6 @@
 
 ## 作業連結
 > ### Week2
->> #### [作業0-讀取多個資料並取得相關內容]()(https://github.com/yun0414/LAT/blob/main/FirstTest_week2.ipynb)
+>> #### [作業0-讀取多個資料並取得相關內容](https://github.com/yun0414/LAT/blob/main/FirstTest_week2.ipynb)
 > ### Week3
 >> #### [作業]()
