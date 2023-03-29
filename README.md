@@ -26,4 +26,4 @@
 > ### Week5
 >> #### [作業2-製作圖表並問三個問題](https://github.com/yun0414/LAT/blob/main/Week5/Hw2.ipynb)
 > ### Week6
->> #### [作業3-利用AI讀取資料並統整](https://github.com/yun0414/LAT/blob/main/Week5/Hw2.ipynb)
+>> #### [作業3-利用AI讀取資料並統整](https://github.com/yun0414/LAT/blob/main/Week6/Hw3.ipynb)
