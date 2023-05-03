@@ -17,9 +17,9 @@
     }
 
 並將text改成
-
+`
 text: 情緒:${result_string}\n分數:${result_score.toFixed(2)}
-
+`
 
 第三步驟先做以下更動去抓到主詞
 
