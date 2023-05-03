@@ -2,7 +2,7 @@
 第一步驟是將老師的程式碼照打下來，會回傳positive, negative, 或neutral
 
 第二步驟新增了下列程式碼
-`
+
     let result_string = []
     const result_score = results[0].confidenceScores[results[0].sentiment]
 
@@ -15,7 +15,7 @@
     else{
         result_string = "中立"
     }
-`
+
 並將text改成
 `
 text: 情緒:${result_string}\n分數:${result_score.toFixed(2)}
