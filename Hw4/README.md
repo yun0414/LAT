@@ -1,1 +1,1 @@
-![Alt text](Hw4.png)
+![Alt text](Hw4.jpg)
