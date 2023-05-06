@@ -6,7 +6,7 @@
 ***
 # 目錄  
 
-+ [**上課筆記**](https://github.com/yun0414/LAT/blob/main/%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
++ [**上課筆記**](https://github.com/yun0414/LAT/blob/main/README.md#%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98))
 + [**作業連結**](https://github.com/yun0414/LAT/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90)
 + **專題連結**
 
