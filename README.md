@@ -11,7 +11,7 @@
 + **專題連結**
 
 ## 上課筆記
-> ###[上課重點整理](https://github.com/yun0414/LAT/blob/main/%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
+> ### [上課重點整理](https://github.com/yun0414/LAT/blob/main/%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
 
 ## 作業連結
 > ### [作業0-讀取多個資料並取得相關內容](https://github.com/yun0414/LAT/blob/main/Hw0/FirstTest_week2.ipynb)
