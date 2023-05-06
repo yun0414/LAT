@@ -11,19 +11,10 @@
 + **專題連結**
 
 ## 上課筆記
-> ### [Week1](https://github.com/yun0414/LAT/blob/main/Week1/Week1%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
-> ### [Week2](https://github.com/yun0414/LAT/blob/main/Week2/Week2%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
-> ### Week3
-> ### Week4
-> ### Week5
-> ### Week6
 
 ## 作業連結
-> ### Week2
->> #### [作業0-讀取多個資料並取得相關內容](https://github.com/yun0414/LAT/blob/main/FirstTest_week2.ipynb)
-> ### Week3
->> #### [作業1-選擇一份資料並詢問十個問題](https://github.com/yun0414/LAT/blob/main/Week3/Hw1.ipynb)
-> ### Week5
->> #### [作業2-製作圖表並問三個問題](https://github.com/yun0414/LAT/blob/main/Week5/Hw2.ipynb)
-> ### Week6
->> #### [作業3-利用AI讀取資料並統整](https://github.com/yun0414/LAT/blob/main/Week6/Hw3.ipynb)
+> ### [作業0-讀取多個資料並取得相關內容](https://github.com/yun0414/LAT/blob/main/FirstTest_week2.ipynb)
+> ### [作業1-選擇一份資料並詢問十個問題](https://github.com/yun0414/LAT/blob/main/Week3/Hw1.ipynb)
+> ### [作業2-製作圖表並問三個問題](https://github.com/yun0414/LAT/blob/main/Week5/Hw2.ipynb)
+> ### [作業3-利用AI讀取資料並統整](https://github.com/yun0414/LAT/blob/main/Week6/Hw3.ipynb)
+> ### [作業4-利用node.js製作LINE聊天機器人](https://github.com/yun0414/LAT/tree/main/Hw4)
