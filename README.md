@@ -13,8 +13,8 @@
 ## 上課筆記
 
 ## 作業連結
-> ### [作業0-讀取多個資料並取得相關內容](https://github.com/yun0414/LAT/blob/main/FirstTest_week2.ipynb)
-> ### [作業1-選擇一份資料並詢問十個問題](https://github.com/yun0414/LAT/blob/main/Week3/Hw1.ipynb)
-> ### [作業2-製作圖表並問三個問題](https://github.com/yun0414/LAT/blob/main/Week5/Hw2.ipynb)
-> ### [作業3-利用AI讀取資料並統整](https://github.com/yun0414/LAT/blob/main/Week6/Hw3.ipynb)
+> ### [作業0-讀取多個資料並取得相關內容](https://github.com/yun0414/LAT/blob/main/Hw0/FirstTest_week2.ipynb)
+> ### [作業1-選擇一份資料並詢問十個問題](https://github.com/yun0414/LAT/blob/main/Hw1/Hw1.ipynb)
+> ### [作業2-製作圖表並問三個問題](https://github.com/yun0414/LAT/blob/main/Hw2/Hw2.ipynb)
+> ### [作業3-利用AI讀取資料並統整](https://github.com/yun0414/LAT/blob/main/Hw3/Hw3.ipynb)
 > ### [作業4-利用node.js製作LINE聊天機器人](https://github.com/yun0414/LAT/tree/main/Hw4)
