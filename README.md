@@ -8,7 +8,7 @@
 
 + [**上課筆記**](https://github.com/yun0414/LAT/blob/main/README.md#%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98)
 + [**作業連結**](https://github.com/yun0414/LAT/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90)
-+ **專題連結**
++ [**專題連結**](https://github.com/yun0414/LAT/tree/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C)
 
 ## 上課筆記
 > ### [重點整理](https://github.com/yun0414/LAT/blob/main/%E4%B8%8A%E8%AA%B2%E7%AD%86%E8%A8%98.txt)
