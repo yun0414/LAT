@@ -41,15 +41,16 @@ text: `主詞:${result_n}\n情緒:${result_string}\n分數:${result_score.toFixe
 補充：
 經過測試後發現會有時候讀不到主詞（就是主詞是空白的）
 所以更動了以下部分：
------------------------
+
 let result_n = results[0].sentences[0]?.opinions[0]?.target?.text
------------------------
+
 如此一來可以判斷是否讀到主詞，如果有就輸出，如果沒有會出現undefined
 因此我們可以根據這個條件來寫if條件句：
------------------------
+
 if(result_n === undefined){
     result_n = '沒有主詞哈哈'
 }
------------------------
 
-
+這樣就完成作業啦
+結果：
+![Alt text](Result_undefined.jpg)
