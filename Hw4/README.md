@@ -17,20 +17,19 @@
     }
 
 並將text改成
-`
-text: 情緒:${result_string}\n分數:${result_score.toFixed(2)}
-`
+
+    text: 情緒:${result_string}\n分數:${result_score.toFixed(2)}
 
 第三步驟先做以下更動去抓到主詞
-`
-const results = await analyticsClient.analyzeSentiment(documents, "zh-hant",{
-        includeOpinionMining:true
-    });
-`
+
+    const results = await analyticsClient.analyzeSentiment(documents, "zh-hant",{
+            includeOpinionMining:true
+        });
+
 
 再更動text部分，使得可以回應包含主詞、情緒，以及分數的回覆
 
-text: `主詞:${result_n}\n情緒:${result_string}\n分數:${result_score.toFixed(2)}`
+    text: `主詞:${result_n}\n情緒:${result_string}\n分數:${result_score.toFixed(2)}`
 
 
 即可完成此次作業
