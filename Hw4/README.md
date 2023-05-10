@@ -36,6 +36,7 @@ text: `主詞:${result_n}\n情緒:${result_string}\n分數:${result_score.toFixe
 即可完成此次作業
 
 結果：
+
 ![Alt text](result.jpg)
 
 補充：
@@ -52,6 +53,7 @@ text: `主詞:${result_n}\n情緒:${result_string}\n分數:${result_score.toFixe
     }
 
 這樣就完成作業啦
+
 結果：
 
 ![Alt text](Result_undefined.jpg)
