@@ -2,6 +2,7 @@
 
 const line = require('@line/bot-sdk'),
       express = require('express'), 
+      axios = require('axios'),
       configGet = require('config');
 const {TextAnalyticsClient, AzureKeyCredential} = require("@azure/ai-text-analytics");
 
@@ -42,7 +43,7 @@ async function MS_TextSentimentAnalysis(thisEvent){
 
     let result_string = []
     const result_score = results[0].confidenceScores[results[0].sentiment]
-    const result_n = results[0].sentences[0].opinions[0].target.text
+    let result_n = results[0].sentences[0]?.opinions[0]?.target?.text
 
     if(results[0].sentiment == "positive"){
         result_string = "正向"
@@ -54,6 +55,9 @@ async function MS_TextSentimentAnalysis(thisEvent){
         result_string = "中立"
     }
 
+    if(result_n === undefined){
+        result_n = '沒有主詞哈哈'
+    }
 
     const echo = {
         type: 'text',
